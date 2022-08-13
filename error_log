@@ -1,0 +1,9 @@
+[12-Mar-2022 19:51:48 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techtip2/public_html/subdomains/mwkpdfaults/db_con.php on line 12
+[12-Mar-2022 19:51:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techtip2/public_html/subdomains/mwkpdfaults/db_con.php on line 12
+[12-Mar-2022 19:52:05 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techtip2/public_html/subdomains/mwkpdfaults/db_con.php on line 12
+[12-Mar-2022 19:52:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techtip2/public_html/subdomains/mwkpdfaults/db_con.php on line 12
+[12-Mar-2022 19:52:34 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techtip2/public_html/subdomains/mwkpdfaults/db_con.php on line 12
+[12-Mar-2022 19:52:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/techtip2/public_html/subdomains/mwkpdfaults/db_con.php on line 12
+[14-Mar-2022 04:52:55 UTC] PHP Parse error:  syntax error, unexpected '']){    ' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/techtip2/public_html/subdomains/mwkpdfaults/share_link.php on line 115
+[14-Mar-2022 04:52:58 UTC] PHP Parse error:  syntax error, unexpected '']){    ' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/techtip2/public_html/subdomains/mwkpdfaults/share_link.php on line 115
+[20-Mar-2022 11:32:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/techtip2/public_html/subdomains/mwkpdfaults/db_con.php on line 12
